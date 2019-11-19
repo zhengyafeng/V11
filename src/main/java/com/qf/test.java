@@ -6,6 +6,6 @@ public class test {
         if(aaaaa){
         }
 
-        System.out.println("腿毛哥。。。吃火锅");
+        System.out.println("腿毛哥。。。吃大便");
     }
 }
